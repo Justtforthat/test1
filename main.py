@@ -1,1 +1,1 @@
-print(f'fuck you')
+print(f'no, fuck you')
