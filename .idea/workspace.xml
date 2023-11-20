@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f00f37b-197e-4b2c-8de6-9d667ab7fe9a" name="Changes" comment="новая попытка 1">
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -110,6 +111,7 @@
       <workItem from="1700250352399" duration="1173000" />
       <workItem from="1700303541714" duration="476000" />
       <workItem from="1700304058069" duration="3369000" />
+      <workItem from="1700407201657" duration="4701000" />
     </task>
     <task id="LOCAL-00001" summary="Пробная версия">
       <option name="closed" value="true" />
@@ -250,6 +252,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="новая попытка 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GoLand_Contestor$main.coverage" NAME="main Coverage Results" MODIFIED="1700307683055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoLand_Contestor$main.coverage" NAME="main Coverage Results" MODIFIED="1700463316652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
